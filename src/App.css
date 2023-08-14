@@ -1,0 +1,17 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+.App {
+  text-align: center;
+  /* background: #031c26; */
+}
+body{
+  scroll-behavior: auto;
+}
+.rotate{
+  display: flex;
+  transform: rotate(320deg);
+  border-radius: 18px;
+}
